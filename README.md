@@ -31,6 +31,7 @@ Can be extended with a GUI, text-to-speech, or social media sharing.
 # 2. Calculator with History
 
 <a href="https://github.com/Maryadajain/Beginner-python-projects/blob/main/Calculator_with_history.py">View Calculator with history on GitHub</a>
+
 Welcome to the Calculator with History – a beginner-friendly Python project that lets users perform basic calculations while keeping track of their previous operations. This is more than just a calculator — it's a smart little tool that remembers your math!
 
 Project Overview-
@@ -53,7 +54,7 @@ File handling – to save and retrieve history using open(), read(), write().
 
 
 # 3. Password Guessing Game
-<a href="https://github.com/Maryadajain/Beginner-python-projects/blob/main/Passwor_Guessing_Game.py">View Password guesssing game on GitHub</a>
+<a href="https://github.com/Maryadajain/Beginner-python-projects/blob/main/Password_Guessing_Game.py">View Password guesssing game on GitHub</a>
 
 Welcome to the Password Guessing Game — a fun, beginner-level Python game where your mission is to guess the secret word chosen by the computer. It’s simple, challenging, and a great way to learn core Python concepts in an interactive way!
 
