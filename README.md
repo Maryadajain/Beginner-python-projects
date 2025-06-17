@@ -2,8 +2,8 @@
 
 # Fake News Headline Generator 
 
+<a href="https://github.com/Maryadajain/Beginner-python-projects/blob/main/Fake_Headline_Generator.py">View Fake Headline Generator on GitHub</a>
 
-<a href- "https://github.com/Maryadajain/Beginner-python-projects/blob/main/Fake_Headline_Generator.py"> /a>
 Welcome to the Fake News Headline Generator — a beginner-friendly Python project that’s all about creativity and fun!
 
 What’s This All About?
@@ -23,6 +23,6 @@ BREAKING NEWS: A group of musicians saves the world in a crowded stadium.
 Sounds wild, right? That’s the idea!
 
 Why It’s Cool
--Perfect for beginners trying to get hands-on with Python.
--Easy to understand, fun to use, and very customizable.
--Can be extended with a GUI, text-to-speech, or social media sharing.
+Perfect for beginners trying to get hands-on with Python.
+Easy to understand, fun to use, and very customizable.
+Can be extended with a GUI, text-to-speech, or social media sharing.
