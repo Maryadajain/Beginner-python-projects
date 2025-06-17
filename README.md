@@ -3,7 +3,7 @@
 # Fake News Headline Generator 
 
 
-<a href- "https://github.com/Maryadajain/Beginner-python-projects/blob/main/Fake_Headline_Generator.py">
+<a href- "https://github.com/Maryadajain/Beginner-python-projects/blob/main/Fake_Headline_Generator.py"> /a>
 Welcome to the Fake News Headline Generator — a beginner-friendly Python project that’s all about creativity and fun!
 
 What’s This All About?
@@ -11,12 +11,12 @@ This mini project is a simple Python program that randomly generates fictional n
 Each time you run the app, it prints out a new "BREAKING NEWS" headline that sounds wild, weird, and often hilarious. And the best part? You can keep generating as many as you like!
 
 Key Concepts-
--This project helps to practice core Python concepts in a super fun way:
--Lists – for storing subjects, actions, and places.
--The random module – to pick something surprising each time.
--While loops – so you can keep generating until you're done laughing.
--User input – letting you control when to stop.
--String formatting with f-strings – to neatly stitch together the headline.
+This project helps to practice core Python concepts in a super fun way:
+Lists – for storing subjects, actions, and places.
+The random module – to pick something surprising each time.
+While loops – so you can keep generating until you're done laughing.
+User input – letting you control when to stop.
+String formatting with f-strings – to neatly stitch together the headline.
 
 Sample Headline
 BREAKING NEWS: A group of musicians saves the world in a crowded stadium.
